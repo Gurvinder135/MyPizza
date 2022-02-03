@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MyPizza/static/css/main.6b72938e.css",
+    "main.js": "/MyPizza/static/js/main.74daa4fc.js",
+    "static/media/featured3.png": "/MyPizza/static/media/featured3.726cbfe4454306efcd40.png",
+    "static/media/featured2.png": "/MyPizza/static/media/featured2.c3762147ab397aa85b8d.png",
+    "static/media/featured.png": "/MyPizza/static/media/featured.39af6ae2e87f32fbb297.png",
+    "static/media/Deluxe_Veggie.jpg": "/MyPizza/static/media/Deluxe_Veggie.3795ff406ad05bb59423.jpg",
+    "static/media/Veg_E.jpg": "/MyPizza/static/media/Veg_E.074e16f9cc51a1f5a15f.jpg",
+    "static/media/Veggie_P.jpg": "/MyPizza/static/media/Veggie_P.14897d3eb50aee48bee3.jpg",
+    "static/media/Non-Veg_Supreme.jpg": "/MyPizza/static/media/Non-Veg_Supreme.0d08383bd14a3c822ec9.jpg",
+    "static/media/IndianTandooriPaneer.jpg": "/MyPizza/static/media/IndianTandooriPaneer.7ec9ae28071733b91456.jpg",
+    "static/media/chunky-chicken.jpg": "/MyPizza/static/media/chunky-chicken.00a5324313903ce14a5f.jpg",
+    "static/media/size.png": "/MyPizza/static/media/size.d01d982ab07517ddefba.png",
+    "static/media/telephone.png": "/MyPizza/static/media/telephone.7bbe558968bc4031356c.png",
+    "static/media/bake.png": "/MyPizza/static/media/bake.a72d8eba5ee91381e1e8.png",
+    "static/media/bike.png": "/MyPizza/static/media/bike.288ea3c28f0a35903f0c.png",
+    "static/media/delivered.png": "/MyPizza/static/media/delivered.ad9c85690159164fba85.png",
+    "static/media/paid.png": "/MyPizza/static/media/paid.3bb7a53dc1b7833ed414.png",
+    "static/media/checked.png": "/MyPizza/static/media/checked.6f298cca57a5a8b36055.png",
+    "static/media/cart.png": "/MyPizza/static/media/cart.ecbc52417590ea6d4056.png",
+    "index.html": "/MyPizza/index.html",
+    "main.6b72938e.css.map": "/MyPizza/static/css/main.6b72938e.css.map",
+    "main.74daa4fc.js.map": "/MyPizza/static/js/main.74daa4fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b72938e.css",
+    "static/js/main.74daa4fc.js"
+  ]
+}
